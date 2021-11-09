@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/isaaclaw96/ReactDay1.git/static/css/main.fcd2f9f9.chunk.css",
-    "main.js": "/isaaclaw96/ReactDay1.git/static/js/main.38eb3fce.chunk.js",
-    "main.js.map": "/isaaclaw96/ReactDay1.git/static/js/main.38eb3fce.chunk.js.map",
-    "runtime-main.js": "/isaaclaw96/ReactDay1.git/static/js/runtime-main.6942d6fa.js",
-    "runtime-main.js.map": "/isaaclaw96/ReactDay1.git/static/js/runtime-main.6942d6fa.js.map",
-    "static/js/2.d33de6af.chunk.js": "/isaaclaw96/ReactDay1.git/static/js/2.d33de6af.chunk.js",
-    "static/js/2.d33de6af.chunk.js.map": "/isaaclaw96/ReactDay1.git/static/js/2.d33de6af.chunk.js.map",
-    "static/js/3.97893771.chunk.js": "/isaaclaw96/ReactDay1.git/static/js/3.97893771.chunk.js",
-    "static/js/3.97893771.chunk.js.map": "/isaaclaw96/ReactDay1.git/static/js/3.97893771.chunk.js.map",
-    "index.html": "/isaaclaw96/ReactDay1.git/index.html",
-    "static/css/main.fcd2f9f9.chunk.css.map": "/isaaclaw96/ReactDay1.git/static/css/main.fcd2f9f9.chunk.css.map",
-    "static/js/2.d33de6af.chunk.js.LICENSE.txt": "/isaaclaw96/ReactDay1.git/static/js/2.d33de6af.chunk.js.LICENSE.txt",
-    "static/media/bgpic.63ead2a1.jpg": "/isaaclaw96/ReactDay1.git/static/media/bgpic.63ead2a1.jpg",
-    "static/media/logo.6ce24c58.svg": "/isaaclaw96/ReactDay1.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/ReactDay1/static/css/main.fcd2f9f9.chunk.css",
+    "main.js": "/ReactDay1/static/js/main.38eb3fce.chunk.js",
+    "main.js.map": "/ReactDay1/static/js/main.38eb3fce.chunk.js.map",
+    "runtime-main.js": "/ReactDay1/static/js/runtime-main.d4eebd2d.js",
+    "runtime-main.js.map": "/ReactDay1/static/js/runtime-main.d4eebd2d.js.map",
+    "static/js/2.d33de6af.chunk.js": "/ReactDay1/static/js/2.d33de6af.chunk.js",
+    "static/js/2.d33de6af.chunk.js.map": "/ReactDay1/static/js/2.d33de6af.chunk.js.map",
+    "static/js/3.97893771.chunk.js": "/ReactDay1/static/js/3.97893771.chunk.js",
+    "static/js/3.97893771.chunk.js.map": "/ReactDay1/static/js/3.97893771.chunk.js.map",
+    "index.html": "/ReactDay1/index.html",
+    "static/css/main.fcd2f9f9.chunk.css.map": "/ReactDay1/static/css/main.fcd2f9f9.chunk.css.map",
+    "static/js/2.d33de6af.chunk.js.LICENSE.txt": "/ReactDay1/static/js/2.d33de6af.chunk.js.LICENSE.txt",
+    "static/media/bgpic.63ead2a1.jpg": "/ReactDay1/static/media/bgpic.63ead2a1.jpg",
+    "static/media/logo.6ce24c58.svg": "/ReactDay1/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6942d6fa.js",
+    "static/js/runtime-main.d4eebd2d.js",
     "static/js/2.d33de6af.chunk.js",
     "static/css/main.fcd2f9f9.chunk.css",
     "static/js/main.38eb3fce.chunk.js"
